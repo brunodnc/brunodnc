@@ -2,7 +2,7 @@
 #### I am a WebDev student
 [comment]: <![I am a WebDev student](bannerurl) // adicionar um banner futuramente>
 
-I am currently trying to learn all this hard stuff so here you will find my little projects.
+I am currently trying to learn all this hard stuff. Here in my GitHub profile you will find my study and side projects code. Thanks for the visit and remember to drink some water :)
 
 Skills: JS / HTML / CSS
 
