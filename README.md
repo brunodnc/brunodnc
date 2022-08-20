@@ -8,8 +8,8 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning web and software development
-- 👯 I’m open to collab with projects of my interests
-- 💬 I'm open to feedback regarding my work here, please give me yours, thanks!
+- 👯 I’m open to work and collaboration :)
+- 💬 I'm open to feedback regarding my projects, please give me yours, thanks!
 - 💬 Ask me anything! 
 - 💬 If you are looking for my online portfolio: <br>
 [<img src='https://simpleicons.vercel.app/githubpages/FFFF00' alt='Github Pages' height='80'>](https://brunodnc.github.io)
