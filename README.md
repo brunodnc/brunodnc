@@ -6,8 +6,9 @@
 
 JS / Bash / MySQL / PostgreSQL / Node.js / React / Mongoose / Docker
 
+[comment]: <![- 🌱 I’m now learning Rust!)>
+
 - 🔭 I’m currently working on this page. 
-[//]: # (- 🌱 I’m now learning Rust!)
 - 👯 I’m open to work :)
 - 💬 I'm open to feedback regarding my projects, thanks!
 - 💬 Ask me anything! 
