@@ -4,7 +4,7 @@
 
 #### Here in my GitHub profile you will find my study code and side projects. Thanks for the visit and remember to drink some water :)
 
-JS / Bash / MySQL / PostgreSQL / Node.js / React / Mongoose / Docker
+JavaScript / React / Redux / Angular / Node.js / Express / Linux / Bash / SQL / MySQL / PostgreSQL / NoSQL / MongoDB / Docker / Git
 
 [comment]: <![- 🌱 I’m now learning Rust!)>
 
