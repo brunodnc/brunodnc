@@ -12,7 +12,7 @@ JavaScript / React / Redux / Angular / Node.js / Express / Linux / Bash / SQL / 
 - 👯 I’m open to work :)
 - 💬 I'm open to feedback regarding my projects, thanks!
 - 💬 Ask me anything! 
-- 💬 If you are looking for my online portfolio: <br>
+- 💬 If you are looking for my online portfolio, it is a little bit outdated: <br>
 [<img src='https://simpleicons.vercel.app/githubpages/FFFF00' alt='Github Pages' height='80'>](https://brunodnc.github.io)
 - 📫 How to reach me:   
 
